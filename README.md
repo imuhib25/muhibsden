@@ -29,7 +29,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/muhibsden.git
+    git clone https://github.com/imuhib25/muhibsden.git
     cd muhibsden
     ```
 
