@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38661975052",
+    "project_id": "muhibs-den",
+    "storage_bucket": "muhibs-den.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38661975052:android:0c38ea1f913def86a21229",
+        "android_client_info": {
+          "package_name": "com.intisarmuhib.muhibsden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhroaWcpIhFCJXtrEDzDfflVtO-FSdWC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
